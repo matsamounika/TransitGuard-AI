@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ TransitGuard AI
 
 **Privacy-Preserving Edge AI for Micro-Accessibility and Safety in Public Transit Hubs**
@@ -57,3 +58,6 @@ streamlit run app.py
 ```
 
 The application will launch automatically in your browser at `http://localhost:8501`.
+=======
+# TransitGuard-AI
+>>>>>>> 6f4d82ba64fff7a62f97648656aa96868975ae3c
