@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#3B82F6"             # Vibrant blue highlight
+backgroundColor = "#0B1120"          # Deep dark navy background
+secondaryBackgroundColor = "#1E293B" # Navy card / sidebar background
+textColor = "#F8FAFC"               # Crisp clean white/slate text
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+
+[browser]
+gatherUsageStats = false

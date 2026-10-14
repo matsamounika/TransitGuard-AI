@@ -1,0 +1,17 @@
+# TransitGuard AI - Core Dependencies
+# Python 3.11 or 3.12 recommended
+
+# Web Application Framework
+streamlit>=1.35.0
+
+# Computer Vision & Deep Learning (Pretrained YOLO)
+ultralytics>=8.2.0
+opencv-python>=4.9.0.80
+pillow>=10.2.0
+
+# Data Management & Storage
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Testing & Utilities
+pytest>=8.0.0
